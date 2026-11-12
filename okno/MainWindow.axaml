@@ -9,5 +9,6 @@
         WindowStartupLocation="CenterScreen">
     <TextBlock Text="Czesc, to moje okno!"
                FontSize="32"
-               FontWeight="Bold" />
+               FontWeight="Bold"
+               FontStyle="Italic" />
 </Window>
